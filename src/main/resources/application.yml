@@ -1,0 +1,28 @@
+spring:
+  mvc:
+    view:
+#      static-path-pattern: /resources/
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+
+
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:XE
+    username: scott
+    password: TIGER
+
+
+  jdbc:
+    template:
+      max-rows: 500
+
+server:
+  port: 8383
+
+  servlet:
+    jsp:
+      init-parameters:
+        development: true
+
+
