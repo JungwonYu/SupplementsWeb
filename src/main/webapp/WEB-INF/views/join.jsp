@@ -71,7 +71,7 @@
 	<!--Join-->
 		<div class="container">
 		<div class="row">
-			<div class="col-lg-10 col-xl-9 mx-auto">
+			<div class="container-join-login">
 				<div class="card flex-row my-5 border-0 shadow rounded-3 overflow-hidden">
 					<div class="card-img-left d-none d-md-flex"></div>
 					<div class="card-body p-4 p-sm-5">
