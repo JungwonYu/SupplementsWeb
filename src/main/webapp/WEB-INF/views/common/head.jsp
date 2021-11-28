@@ -8,7 +8,7 @@
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- favicon -->
-    <link href="image/favicon.png" rel="shortcut icon">
+    <link href="images/favicon.png" rel="shortcut icon">
     <!-- css -->
     <link rel="stylesheet" href="css/common.css">
     <link rel="stylesheet" href="css/custom.css">

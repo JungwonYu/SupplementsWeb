@@ -164,7 +164,7 @@
                     <div class="device-wrapper">
                         <div class="screen bg-white">
                             <video muted="muted" autoplay="" loop="" style="max-width: 100%; height: 100%">
-                                <source src="image/example.mp4" type="video/mp4"/>
+                                <source src="images/example.mp4" type="video/mp4"/>
                             </video>
                         </div>
                     </div>
